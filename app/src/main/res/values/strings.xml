@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab03_OCLToastSP</string>
+    <string name="leftTopClick">Top Left Box</string>
+    <string name="rightTopClick">Top Right Box</string>
+    <string name="leftBottomClick">Bottom Left Box</string>
+    <string name="rightBottomClick">Bottom Right Box</string>
+    <plurals name="outString">
+        <item quantity="one">You have clicked the %s %d time.</item>
+        <item quantity="other">You have clicked the %s %d times.</item>
+    </plurals>
+</resources>
